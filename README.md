@@ -58,7 +58,7 @@ leaving the server will broadcast the message: ```Server: user Has left the serv
 
 private messages will only be sent to one user and be seen in the folloing format  
 
-```server \<Private>: message```
+```user <Private>: message```
 
 if the private message was not properly sent, an invalid message will return to the sender
 
