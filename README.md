@@ -34,11 +34,11 @@ to preforma broadcast message simply type in the console and hit enter
 
 to preform a private message simply add @username in the begining of your message and hit enter
 
-e.g. "@john how was your day?"
+```@john how was your day?```
 
 #### <b>Exit: </b>
 
-to exit simply type "!exit" in chat and hit enter
+to exit simply type ```!exit``` in chat and hit enter
 
 
 
@@ -50,23 +50,23 @@ to exit simply type "!exit" in chat and hit enter
 
 Broadcast messages will be seen by everyone from one user.
 
-joining the server will broadcast the message: 'Server: user has joined the Server'
+joining the server will broadcast the message: ```Server: user has joined the Server```
 
-leaving the server will broadcast the message: Server: user Has left the server
+leaving the server will broadcast the message: ```Server: user Has left the server```
 
 #### <b>private: </b>
 
 private messages will only be sent to one user and be seen in the folloing format  
 
-'server \<Private>: message'
+```server \<Private>: message```
 
 if the private message was not properly sent, an invalid message will return to the sender
 
-'server <Private>: INVALID FORMAT'
+```server <Private>: INVALID FORMAT```
 
 #### <b>Exit: </b>
 
-to exit simply type "!exit" in chat and hit enter
+to exit simply type ```!exit``` in chat and hit enter
 
 ## How to use (as server):
 1. run 'server.py'
